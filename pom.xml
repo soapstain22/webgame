@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>org.eclipse.jetty</groupId>
+    <artifactId>http-jetty-server</artifactId>
+    <version>9.4.47.v20220524</version>
+</dependency>
